@@ -1,0 +1,3 @@
+pip install scikit-learn
+
+Scikit-learn is a machine learning library that provides simple and efficient tools for data mining, data analysis, and machine learning.
