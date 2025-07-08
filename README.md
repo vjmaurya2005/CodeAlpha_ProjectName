@@ -16,6 +16,7 @@ How to Run:
 
 
 
+
 Task 2-ChatBot for FAQs
 
 This is a simple FAQ Chatbot built with Python for CodeAlpha's AI Internship Program. It uses cosine similarity to match user questions with pre-defined FAQs.
