@@ -1,3 +1,0 @@
-python chatbotfaqs.py
-
-To run question and answer chatbot
