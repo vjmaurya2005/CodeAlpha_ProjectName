@@ -1,0 +1,4 @@
+pip install googletrans==4.0.0-rc1
+gTTS
+
+You should type this in CMD or whichever terminal you have and enter
