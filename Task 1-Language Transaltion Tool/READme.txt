@@ -1,6 +1,6 @@
 Task 1-Language Translation Tool
 
-##Language Translation Tool This is a simple language translation desktop app created as part of the CodeAlpha AI Internship. It allows users to enter text, select source and target languages, and view the translated output instantly. It can Translate between multiple languages ,User-friendly interface using Tkinter, Uses Google Translate API.
+This is a simple language translation desktop app created as part of the CodeAlpha AI Internship. It allows users to enter text, select source and target languages, and view the translated output instantly. It can Translate between multiple languages ,User-friendly interface using Tkinter, Uses Google Translate API.
 
 How to Run: 1)Install Python
 
