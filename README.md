@@ -14,6 +14,7 @@ How to Run:
 
 4)Run the Program: python googletranslator.py from command prompt using my file python googletranslator.py
 
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ##Task 2-ChatBot for FAQs
 
