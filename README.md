@@ -1,0 +1,2 @@
+# CodeAlpha_ProjectName
+This project is part of CodeAlpha Artificial Intelligence(AI) Internship. It is a language translation tool that allow users to translate the language one to another using Tkinter based GUI in python.
