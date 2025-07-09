@@ -9,7 +9,7 @@ faqs = {
     "What is Machine Learning?": "It helps computers learn from data.",
     "What is CodeAlpha?": "CodeAlpha is a learning platform.",
     "How many tasks do I need to complete in the AI internship?": "You must complete a minimum of 2 out of 4 tasks to be eligible for the certificate.",
-   "What is AI?", : "AI stands for Artificial Intelligence.",
+   "What is AI?" : "AI stands for Artificial Intelligence.",
     }
 
 # Step 2: Prepare data
